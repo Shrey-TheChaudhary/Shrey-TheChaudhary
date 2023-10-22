@@ -1,3 +1,8 @@
+<p align="center">
+    
+![GitHub Cover](https://github.com/Shrey-TheChaudhary/ShreyTheChaudhary/blob/36ebc20d2964c26000f00f2bf5f68801ef813466/githubBanner.gif)
+    
+</p>
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
 
 <h1 align="center">
