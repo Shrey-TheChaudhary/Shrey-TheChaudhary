@@ -1,8 +1,3 @@
-<p align="center">
-    
-![GitHub Cover](https://github.com/Shrey-TheChaudhary/ShreyTheChaudhary/blob/36ebc20d2964c26000f00f2bf5f68801ef813466/githubBanner.gif)
-    
-</p>
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
 
 <h1 align="center">
@@ -49,3 +44,5 @@
 [![Shrey's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Shrey0301)](https://github.com/Shrey-TheChaudhary/github-readme)
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=shrey-thechaudhary&show_icons=true&locale=en" alt="shrey-thechaudhary" /></p>
 <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=shrey-thechaudhary&" alt="shrey-thechaudhary" /></p>
+
+![snake animation](https://raw.githubusercontent.com/Shrey-TheChaudhary/Shrey-TheChaudhary/blob/output/github-contribution-grid-snake.svg)
