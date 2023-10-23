@@ -42,7 +42,8 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shrey-thechaudhary&show_icons=true&locale=en&layout=compact" alt="shrey-thechaudhary" /></p>
 
 [![Shrey's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Shrey0301)](https://github.com/Shrey-TheChaudhary/github-readme)
+
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=shrey-thechaudhary&show_icons=true&locale=en" alt="shrey-thechaudhary" /></p>
 <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=shrey-thechaudhary&" alt="shrey-thechaudhary" /></p>
 
-![Snake animation](https://github.com/Shrey-TheChaudhary/Shrey-TheChaudhary/blob/output/github-contribution-grid-snake.svg)
+
