@@ -45,4 +45,4 @@
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=shrey-thechaudhary&show_icons=true&locale=en" alt="shrey-thechaudhary" /></p>
 <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=shrey-thechaudhary&" alt="shrey-thechaudhary" /></p>
 
-![snake animation](https://raw.githubusercontent.com/Shrey-TheChaudhary/Shrey-TheChaudhary/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Shrey-TheChaudhary/Shrey-TheChaudhary/blob/output/github-contribution-grid-snake.svg)
