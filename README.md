@@ -22,7 +22,7 @@
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1PfehS0GTDkijm9KC0WpKll0bSGlYECVT/view?usp=share_link)
 
-- ⚡ Fun fact **I Code in Dark Mode and Day Light**
+- ⚡ Fun fact ** I Code in Dark Mode 🌚 But in Daylight 🌞 😄**
 <h1>Connect With Me:</h1>
 
 
