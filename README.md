@@ -1,4 +1,4 @@
-![MasterHead](https://www.careerguide.com/career/wp-content/uploads/2020/03/giphy-7.gif)
+![MasterHead](https://cdn.dribbble.com/users/1603428/screenshots/4158726/tcs-gif.gif)
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
 
 <h1 align="center">
