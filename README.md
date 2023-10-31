@@ -1,4 +1,4 @@
-![MasterHead](https://cdn.dribbble.com/users/1603428/screenshots/4158726/tcs-gif.gif)
+![MasterHead](https://discovertemplate.com/wp-content/uploads/2021/06/Smart-Technology-Animated-GIF-Icon-Pack-.gif)
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
 
 <h1 align="center">
