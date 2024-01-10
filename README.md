@@ -26,6 +26,9 @@
 - ⚡ Fun fact  **I Code in Dark Mode 🌚 But in Daylight** 🌞 😄
 <h1>Connect With Me:</h1>
 
+## 💡 A Quote:
+
+[![A random quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
 [![Linkedin](https://skillicons.dev/icons?i=linkedin&theme=light)](https://www.linkedin.com/in/shrey--chaudhary/)
 [![Instagram](https://skillicons.dev/icons?i=instagram&theme=light)](https://www.instagram.com/shrey_9879/)
