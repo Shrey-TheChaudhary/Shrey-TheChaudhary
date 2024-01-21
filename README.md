@@ -1,4 +1,4 @@
-![MasterHead](https://discovertemplate.com/wp-content/uploads/2021/06/Smart-Technology-Animated-GIF-Icon-Pack-.gif)
+![MasterHead](https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/python-2.gif)
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
 
 <h1 align="center">
