@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **shreychaudhary9789@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1PfehS0GTDkijm9KC0WpKll0bSGlYECVT/view?usp=share_link)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/13Lr6ZFMZKK6BG9P53GMscfHA6ZBVFH1x/view?usp=sharing)
 
 - ⚡ Fun fact  **I Code in Dark Mode 🌚 But in Daylight** 🌞 😄
 <h1>Connect With Me:</h1>
