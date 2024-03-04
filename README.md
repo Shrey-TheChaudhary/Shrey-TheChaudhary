@@ -13,7 +13,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shrey-thechaudhary&label=Profile%20views&color=0e75b6&style=flat" alt="shrey-thechaudhary" /> </p>
 
-- 🌱 I’m currently learning **Gsap,JDBC,NodeJs,ExpressJs**
+- 🌱 I’m currently learning **GSAP,JDBC,SPRING BOOT**
 
 - 👨‍💻 All of my projects are available at [My Portfolio](https://shreychaudhary-portfolio.netlify.app/)
 
