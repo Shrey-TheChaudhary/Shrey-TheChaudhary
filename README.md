@@ -39,7 +39,7 @@
 
 <h1>Languages and Tools:</h1>
 
-![My Skills](https://skillicons.dev/icons?i=java,cpp,html,css,javascript,bootstrap,react,nodejs,materialui,mongodb,mysql,git,github,netlify,selenium)
+![My Skills](https://skillicons.dev/icons?i=java,cpp,html,css,javascript,bootstrap,react,nodejs,materialui,mongodb,mysql,git,github,netlify,selenium,kafka,redis,docker,kubernetes)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shrey-thechaudhary&show_icons=true&locale=en&layout=compact" alt="shrey-thechaudhary" /></p>
 
