@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **shreychaudhary9789@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1mpqB7O--9O9HoN9WaGSFdhPweZcCN-V1/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1oAQjohfVjf3v1PlkQ37XluqCDJZvJj9o/view?usp=sharing)
 
 - ⚡ Fun fact  **I Code in Dark Mode 🌚 But in Daylight** 🌞 😄
 <h1>Connect With Me:</h1>
@@ -39,7 +39,7 @@
 
 <h1>Languages and Tools:</h1>
 
-![My Skills](https://skillicons.dev/icons?i=java,cpp,python,html,css,javascript,bootstrap,react,redux,nodejs,express,materialui,mongodb,mysql,git,github,firebase,netlify,selenium,kafka,graphql,spring,redis,docker,kubernetes&perline=25)
+![My Skills](https://skillicons.dev/icons?i=java,cpp,python,html,css,javascript,bootstrap,react,redux,nodejs,express,materialui,mongodb,mysql,git,github,firebase,netlify,selenium,kafka,graphql,spring,redis,docker,kubernetes&perline=13)
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shrey-thechaudhary&show_icons=true&locale=en&layout=compact" alt="shrey-thechaudhary" /></p>
